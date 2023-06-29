@@ -1,2 +1,2 @@
-# relogio-digital-100DaysofCodee-3
-Project - #100DaysofCode - 3
+# relogio-digital-ProjectJS-3
+Project - #ProjectJS - 3
